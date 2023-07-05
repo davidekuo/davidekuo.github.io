@@ -2,11 +2,11 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: headshot.jpeg
   image_circular: true # crops the image to make it circular
   address: >
     <p>555 your office number</p>
@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-Testing!
+I'm a Medical Retina Fellow at Duke. Previously, I studied Bioengineering at UCLA, completed medical school and Ophthalmology residency at UCSD, and an NLM postdoctoral fellowship in Biomedical Informatics at Stanford. I am broadly interested in machine learning for ophthalmology with a particular focus on meta-learning and explainability.
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 

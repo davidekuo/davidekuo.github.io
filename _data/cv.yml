@@ -1,32 +1,41 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+# - title: General Information
+#   type: map
+#   contents:
+#     - name: Name
+#       value: David Kuo
+#     - name: Email
+#       value: david [dot] kuo [at] duke [dot] edu
+#     - name: Languages
+#       value: English, Mandarin, Spanish
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+    # - title: PhD
+    #   institution: University of Zurich, Zurich, Switzerland
+    #   year: 1905
+    #   description:
+    #     - Description 1.
+    #     - Description 2.
+    #     - title: Description 3.
+    #       contents:
+    #         - Sub-description 1.
+    #         - Sub-description 2.
+    - title: NLM Postdoctoral Fellowship, Biomedical Informatics
+      institution: Stanford University
+      year: 2021-2023
+    - title: Ophthalmology Residency
+      institution: University of California, San Diego
+      year: 2018-2021
+    - title: Internship, Internal Medicine
+      institution: Eisenhower Medical Center
+      year: 2017-2018
+    - title: Medical School
+      institution: University of California, San Diego
+      year: 2012-2017
+    - title: BS, Bioengineering
+      institution: University of California, Los Angeles
+      year: 2008-2012
 
 - title: Experience
   type: time_table
