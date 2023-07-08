@@ -21,28 +21,31 @@
     #       contents:
     #         - Sub-description 1.
     #         - Sub-description 2.
+    - title: Medical Retina Fellowship
+      institution: Duke University
+      year: 2023-2024
     - title: NLM Postdoctoral Fellowship, Biomedical Informatics
       institution: Stanford University
       year: 2021-2023
     - title: Ophthalmology Residency
-      institution: University of California, San Diego
+      institution: University of California San Diego
       year: 2018-2021
-    - title: Internship, Internal Medicine
+    - title: Internal Medicine Internship
       institution: Eisenhower Medical Center
       year: 2017-2018
     - title: Medical School
-      institution: University of California, San Diego
+      institution: University of California San Diego
       year: 2012-2017
-    - title: BS, Bioengineering
-      institution: University of California, Los Angeles
+    - title: BS Bioengineering
+      institution: University of California Los Angeles
       year: 2008-2012
 
-- title: Industry Experience
+- title: Experience
   type: time_table
   contents:
-    - title: Genentech Ophthalmology Product Development - Clinical Science Intern
+    - title: Ophthalmology Product Development, Clinical Science Intern
       institution: Genentech/Roche
-      year: Summer 2022 - present
+      year: 2022-
       description:
         - Medical monitor for BALATON and COMINO clinical trials
         - Supporting regulatory filing of faricimab (Vabysmo) for retinal vein occlusion
@@ -77,10 +80,10 @@
   contents:
     - year: 2022
       items: 
-        - Diplomate of the American Board of Ophthalmology (Board-Certified)
+        - Diplomate of the American Board of Ophthalmology
     - year: 2020
       items: 
-        - Consultant of the Year (nominated by UCSD Department of Emergency Medicine)
+        - Consultant of the Year, UCSD Department of Emergency Medicine
     - year: 2015
       items: 
         - NIH Medical Research Scholars Program
