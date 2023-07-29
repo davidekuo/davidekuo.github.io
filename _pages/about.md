@@ -19,7 +19,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I'm a Medical Retina Fellow at Duke. Previously, I studied Bioengineering at UCLA, completed medical school and Ophthalmology residency at UCSD followed by an NLM postdoctoral fellowship in Biomedical Informatics at Stanford. I also worked in Genentech's Ophthalmology Product Development group on clinical trials for faricimab (Vabysmo) in retinal vein occlusion and the development of novel algorithms for studying clinical response to ocular therapies. 
+I'm a Medical Retina Fellow at Duke. Previously, I studied Bioengineering at UCLA, completed medical school and Ophthalmology residency at UCSD followed by an NLM postdoctoral fellowship in Biomedical Informatics at Stanford. I also worked in Genentech's Ophthalmology Product Development group on clinical trials for faricimab (Vabysmo) and the development of novel algorithms for studying clinical response to ocular therapies. 
 
 I am broadly interested in machine learning for healthcare with a particular interest in meta-learning and explainability for computer vision. In my spare time, I enjoy the outdoors (e.g. hiking, camping, landscape photography) and trying different ethnic cuisines.
 
