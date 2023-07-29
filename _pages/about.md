@@ -21,7 +21,7 @@ social: true  # includes social icons at the bottom of the page
 
 I'm a Medical Retina Fellow at Duke. Previously, I studied Bioengineering at UCLA, completed medical school and Ophthalmology residency at UCSD, and an NLM postdoctoral fellowship in Biomedical Informatics at Stanford. I also worked in Genentech's Ophthalmology Product Development group on clinical trials and regulatory filing for faricimab (Vabysmo) for retinal vein occlusion, and the development of novel algorithms for studying clinical response to ocular therapies. 
 
-I am broadly interested in machine learning for healthcare with a particular interest in self-supervised learning, meta-learning and explainability. In my spare time, I enjoy the outdoors (e.g. hiking, camping, landscape photography) and trying different ethnic cuisines.
+I am broadly interested in machine learning for healthcare with a particular interest in self-supervised learning, meta-learning, and explainability. In my spare time, I enjoy the outdoors (e.g. hiking, camping, landscape photography) and trying different ethnic cuisines.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
