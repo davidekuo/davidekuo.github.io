@@ -84,12 +84,12 @@
     - year: 2020
       items: 
         - Consultant of the Year, UCSD Department of Emergency Medicine
-    - year: 2015
-      items: 
-        - NIH Medical Research Scholars Program
-    - year: 2014
-      items: 
-        - National Eye Institute Travel Grant, ARVO Annual Meeting
+    # - year: 2015
+    #   items: 
+    #     - NIH Medical Research Scholars Program
+    # - year: 2014
+    #   items: 
+    #     - National Eye Institute Travel Grant, ARVO Annual Meeting
     - year: 2012
       items: 
         - First Place, Diagnostic Devices Category, NIBIB DEBUT Challenge
