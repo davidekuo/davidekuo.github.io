@@ -1,6 +1,6 @@
 ---
 layout: page
-title: photography
+title: Photography
 permalink: /photography/
 description: A growing collection of your cool projects.
 nav: false
