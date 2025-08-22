@@ -43,6 +43,9 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Ophthalmologist
+      institution: Kaiser Permanente, San Jose
+      year: 2024-
     - title: Ophthalmology Product Development, Clinical Science Intern
       institution: Genentech/Roche
       year: 2022-
@@ -78,6 +81,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2024
+      items: 
+        - Member of the American Society of Retina Specialists
     - year: 2022
       items: 
         - Diplomate of the American Board of Ophthalmology
